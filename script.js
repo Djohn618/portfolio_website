@@ -6,14 +6,6 @@ const CONFIG = {
 };
 
 // ===========================
-// Language Translations
-// ===========================
-const translations = {
-    de: {},
-    en: {}
-};
-
-// ===========================
 // Global Variables
 // ===========================
 let currentLang = 'de';
