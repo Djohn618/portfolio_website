@@ -34,3 +34,6 @@ assets/images/*.jpeg
 # Old backup files
 *_old.css
 *_old.js
+
+# Local Claude settings
+.claude/

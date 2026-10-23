@@ -360,7 +360,7 @@ function initContactForm() {
                     // Store submit time for rate limiting
                     localStorage.setItem('lastFormSubmit', now.toString());
                     // Redirect to thank you page
-                    window.location.href = 'https://deshanjohn.me/thankyou.html';
+                    window.location.href = '/thankyou.html';
                 } else {
                     alert('Es gab ein Problem beim Senden. Bitte versuchen Sie es erneut.');
                     submitBtn.disabled = false;
